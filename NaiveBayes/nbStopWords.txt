@@ -1,0 +1,1 @@
+For the command “python nbStopWords.py split.train”, when the value of N reaches 15, the accuracy increases from 0.8056 to 0.8333. When the value of N reaches 40, the accuracy increases from 0.8333 to 0.8611. When the value of N reaches 55, the accuracy decreases from 0.8611 to 0.8333. So the best N seems to be between 40 and 50.

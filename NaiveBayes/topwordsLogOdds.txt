@@ -1,0 +1,1 @@
+Words that have very specific meanings are found. No, there is not any overlapping words between them. They are different from what I found with topwords.py in the way that they are not stop words and are able to represent the document type.
