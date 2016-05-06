@@ -13,7 +13,7 @@
 #
 # Usage:
 #      
-#      python nb.py <split.train> <split.test> <number: top n>
+#      python nbStopWords.py <split.train> <split.test> <number: top n>
 #
 # @author: Ziping Zheng
 #
